@@ -1,0 +1,13 @@
+C:\Users\subra\Desktop\abc\OctocatApp\bin\Release\netcoreapp3.1\OctocatApp.exe
+C:\Users\subra\Desktop\abc\OctocatApp\bin\Release\netcoreapp3.1\OctocatApp.deps.json
+C:\Users\subra\Desktop\abc\OctocatApp\bin\Release\netcoreapp3.1\OctocatApp.runtimeconfig.json
+C:\Users\subra\Desktop\abc\OctocatApp\bin\Release\netcoreapp3.1\OctocatApp.runtimeconfig.dev.json
+C:\Users\subra\Desktop\abc\OctocatApp\bin\Release\netcoreapp3.1\OctocatApp.dll
+C:\Users\subra\Desktop\abc\OctocatApp\bin\Release\netcoreapp3.1\OctocatApp.pdb
+C:\Users\subra\Desktop\abc\OctocatApp\obj\Release\netcoreapp3.1\OctocatApp.csprojAssemblyReference.cache
+C:\Users\subra\Desktop\abc\OctocatApp\obj\Release\netcoreapp3.1\OctocatApp.csproj.CoreCompileInputs.cache
+C:\Users\subra\Desktop\abc\OctocatApp\obj\Release\netcoreapp3.1\OctocatApp.AssemblyInfoInputs.cache
+C:\Users\subra\Desktop\abc\OctocatApp\obj\Release\netcoreapp3.1\OctocatApp.AssemblyInfo.cs
+C:\Users\subra\Desktop\abc\OctocatApp\obj\Release\netcoreapp3.1\OctocatApp.dll
+C:\Users\subra\Desktop\abc\OctocatApp\obj\Release\netcoreapp3.1\OctocatApp.pdb
+C:\Users\subra\Desktop\abc\OctocatApp\obj\Release\netcoreapp3.1\OctocatApp.genruntimeconfig.cache
